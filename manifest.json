@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Twitter Share Fixer",
+  "version": "1.0",
+  "description": "Remet l'option 'Copy link' en premier dans le menu de partage de Twitter.",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["https://x.com/*", "https://twitter.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
