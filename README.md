@@ -9,5 +9,5 @@ An extansion fixing X's last update that reverted "copy link" and "share with ch
 1. Go to extensions
 2. unable dev mode
 3.  load extension button
-4.  use a folder with both files from the [content.json](https://github.com/Blaasst/twitter-share-fixer/blob/main/content.js) and 'manifest.json'
+4.  use a folder with both files from the [content.json](https://github.com/Blaasst/twitter-share-fixer/blob/main/content.js) and [manifest.json](https://github.com/Blaasst/twitter-share-fixer/blob/main/manifest.json)
 5.  activate it and refresh your browser
